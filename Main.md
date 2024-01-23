@@ -6,7 +6,7 @@
   `cd /home/level/`
 - And, practice levels.
 ---
-*List of commands* we will use : 
+*List of commands* we will use for *level 0-5* : 
 - `cd` : *change directory*.
 - `ls` : *list files in the current folder*.
 - `ls -la` : *list all files in the current folder*.
