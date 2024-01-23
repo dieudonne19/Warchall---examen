@@ -6,6 +6,6 @@
 ---
 - And we have to go to : `cd ~` and tap `ls`
 - Then, navigate to `cd level/` and `ls`
-- To `cd 04_kwisatz/` and `ls`
-- Finally, `cat README2.md`
+- To `cd 04_kwisatz/` then `ls` to list files.
+- Finally, we see README2.md : `cat README2.md` which is the solution.
 ---
